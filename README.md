@@ -1,2 +1,2 @@
 # BYTE-Co
-// Contributors : Mujahid, Lauren, Sameer2, Aaminah Allie
+// Contributors : Mujahid, Lauren, Sameer2, Aaminah Allie, Lauren Sidonie
